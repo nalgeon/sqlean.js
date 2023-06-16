@@ -1,0 +1,21 @@
+{
+    "name": "@antonz/sqlean",
+    "version": "0.21.5-u1",
+    "description": "Browser-based SQLite with extensions",
+    "author": "Anton Zhiyanov",
+    "license": "MIT",
+    "homepage": "https://github.com/nalgeon/sqlite",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nalgeon/sqlean.js.git"
+    },
+    "type": "module",
+    "exports": {
+        ".": "./dist/sqlean.mjs",
+        "./sqlean.wasm": "./dist/sqlean.wasm",
+        "./package.json": "./package.json"
+    },
+    "files": [
+        "dist/"
+    ]
+}
