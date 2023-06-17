@@ -2,6 +2,8 @@
 
 This package provides an SQLite database engine compiled for the browser and bundled with [`sqlean`](https://github.com/nalgeon/sqlean) extensions. It's a drop-in replacement for the standard [`sqlite-wasm`](https://sqlite.org/wasm/doc/trunk/npm.md) package.
 
+[Live Demo](https://sqlime.org/)
+
 ## Extensions
 
 `sqlean.js` contains 9 essential SQLite extensions:
