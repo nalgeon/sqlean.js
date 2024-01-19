@@ -117,7 +117,7 @@ See the [SQLite documentation](https://sqlite.org/wasm) for details.
 
 ## License
 
-Copyright 2023+ [Anton Zhiyanov](https://antonz.org/).
+Copyright 2023-2024 [Anton Zhiyanov](https://antonz.org/).
 
 The software is available under the MIT License.
 
