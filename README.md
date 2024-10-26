@@ -1,6 +1,6 @@
 # sqlean.js
 
-This package provides an SQLite database engine compiled for the browser and bundled with [`sqlean`](https://github.com/nalgeon/sqlean) extensions. It's a drop-in replacement for the standard [`sqlite-wasm`](https://sqlite.org/wasm/doc/trunk/npm.md) package.
+This package provides an SQLite database engine compiled for the browser and bundled with [`sqlean`](https://github.com/nalgeon/sqlean) extensions.
 
 [Live Demo](https://sqlime.org/)
 
@@ -121,6 +121,6 @@ Copyright 2023-2024 [Anton Zhiyanov](https://antonz.org/).
 
 The software is available under the MIT License.
 
-## Stay tuned
+## Support
 
-[**Subscribe**](https://antonz.org/subscribe/) to stay on top of new features 🚀
+The package is provided as-is, and I don't currently plan to change anything except to update the SQLite version from time to time.
