@@ -11,7 +11,10 @@
     },
     "type": "module",
     "exports": {
-        ".": "./dist/sqlean.mjs",
+        ".": {
+            "types": "./dist/sqlean.d.ts",
+            "default": "./dist/sqlean.mjs"
+        },
         "./sqlean.wasm": "./dist/sqlean.wasm",
         "./package.json": "./package.json"
     },
