@@ -12,6 +12,8 @@
     "type": "module",
     "exports": {
         ".": {
+            "development": "./dist/sqlean.dev.mjs",
+            "production": "./dist/sqlean.mjs",
             "types": "./dist/sqlean.d.ts",
             "default": "./dist/sqlean.mjs"
         },
