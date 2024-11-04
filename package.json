@@ -1,6 +1,6 @@
 {
     "name": "@antonz/sqlean",
-    "version": "3.47.0",
+    "version": "3.47.1-rc1",
     "description": "Browser-based SQLite with extensions",
     "author": "Anton Zhiyanov",
     "license": "MIT",
