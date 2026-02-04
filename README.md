@@ -2,7 +2,7 @@
 
 This package provides an SQLite database engine compiled for the browser and bundled with [`sqlean`](https://github.com/nalgeon/sqlean) extensions.
 
-[Live Demo](https://sqlime.org/)
+The project is no longer maintained.
 
 ## Extensions
 
@@ -120,7 +120,3 @@ See the [SQLite documentation](https://sqlite.org/wasm) for details.
 Copyright 2023-2024 [Anton Zhiyanov](https://antonz.org/).
 
 The software is available under the MIT License.
-
-## Support
-
-The package is provided as-is, and I don't currently plan to change anything except to update the SQLite version from time to time.
